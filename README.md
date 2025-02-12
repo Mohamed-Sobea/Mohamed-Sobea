@@ -7,7 +7,7 @@ Computer Science Student
 I am a Computer Science Student I am passionate about leveraging technology to solve real-world challenges and continually expanding my technical expertise.
 
 * ✉️  You can contact me at [msby1144@gmail.com](mailto:msby1144@gmail.com)
-* 🧠  I'm learning Backend
+* 🧠  I'm learning Data structure & Algorithms
 ### Skills
 
 

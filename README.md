@@ -8,7 +8,6 @@ I am a Computer Science Student I am passionate about leveraging technology to s
 
 * ✉️  You can contact me at [msby1144@gmail.com](mailto:msby1144@gmail.com)
 * 🧠  I'm learning Backend
-* 
 ### Skills
 
 

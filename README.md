@@ -8,8 +8,7 @@ I am a Computer Science Student and aspiring Backend Engineer.
 I am passionate about leveraging technology to solve real-world challenges and continually expanding my technical expertise.
 
 - 📫 You can reach me at: **msby1144@gmail.com**
-- 🌱 I’m currently learning: **Backend Development**
-- 💼 Looking for internships or collaboration opportunities!
+- 💡 Always interested in learning new technologies and contributing to meaningful projects.
 
 ---
 
@@ -53,19 +52,11 @@ I am passionate about leveraging technology to solve real-world challenges and c
 
 ### Socials
 
-<p align="left"> 
-<a href="https://github.com/Mohamed-Sobea" target="_blank" rel="noreferrer"> 
-  <picture> 
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
-  </picture> 
+<p align="left">
+<a href="https://github.com/Mohamed-Sobea" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mohamedsobea/" target="_blank" rel="noreferrer"> 
-  <picture> 
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
-  </picture> 
+<a href="https://www.linkedin.com/in/mohamedsobea/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
 </a>
 </p>

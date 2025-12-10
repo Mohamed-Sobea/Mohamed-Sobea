@@ -24,6 +24,11 @@ I am passionate about leveraging technology to solve real-world challenges and c
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
 </a>&nbsp;&nbsp;
+<!-- TypeScript -->
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
+</a>&nbsp;&nbsp;
+
 
 <!-- Backend Frameworks -->
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">

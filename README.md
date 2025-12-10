@@ -2,13 +2,12 @@
 
 
 Computer Science Student | Backend Engineer
--------------------------------------------------------------
 
 I am a Computer Science Student and aspiring Backend Engineer.  
 I am passionate about leveraging technology to solve real-world challenges and continually expanding my technical expertise.
 
-- 📫 You can reach me at: **msby1144@gmail.com**
-- 💡 Always interested in learning new technologies and contributing to meaningful projects.
+- You can reach me at: **msby1144@gmail.com**
+- Always interested in learning new technologies and contributing to meaningful projects.
 
 ---
 

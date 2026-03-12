@@ -23,8 +23,4 @@ Interested in **Backend**, **DevOps**, and core CS like **Databases**, **Compile
 
 ---
 
-### 🌐 Connect with me
-
-[`LinkedIn`](www.linkedin.com/in/mohamedsobea)
-
-[`Gmail`](mailto:msby1144@gmail.com)
+**Connect via**   [`LinkedIn`](www.linkedin.com/in/mohamedsobea) [`Gmail`](mailto:msby1144@gmail.com)

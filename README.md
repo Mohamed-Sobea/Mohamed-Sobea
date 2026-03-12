@@ -1,10 +1,13 @@
-## 👋 Hey there! I'm Mohamed Sobea.
+<p align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Play&pause=1000&color=33FF33&center=true&vCenter=true&width=420&height=18&lines=Hi,+I'm+Mohamed+Sobea;Computer+Science+Student;Backend+Developer+in+progress;Building+projects+and+learning+everyday" alt="Typing SVG" />
+</a>
+</p>
 
-Computer Science Student | Backend Developer | Competitive Programmer | OSS Contributor
+**Computer Science student** interested in **Backend Development**, **Competitive Programming**, and building useful software.
 
-I’m passionate about building software, tools, and applications that make life easier for developers and users.
-
-enjoy collaborating on impactful projects within the developer community.
+I enjoy learning computer science topics and developing tools or applications that solve real problems.  
+Interested in **Backend**, **DevOps**, and core CS like **Databases**, **Compilers**, and **OS**. 
 
 ---
 
@@ -17,3 +20,11 @@ enjoy collaborating on impactful projects within the developer community.
 **Databases:** MongoDB, MySQL
 
 **Tools:** Git, VS Code
+
+---
+
+### 🌐 Connect with me
+
+[`LinkedIn`](www.linkedin.com/in/mohamedsobea)
+
+[`Gmail`](mailto:msby1144@gmail.com)

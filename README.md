@@ -23,4 +23,4 @@ Interested in **Backend**, **DevOps**, and core CS like **Databases**, **Compile
 
 ---
 
-**Connect via**   [`LinkedIn`](www.linkedin.com/in/mohamedsobea) [`Gmail`](mailto:msby1144@gmail.com)
+**Connect via**   [`LinkedIn`](https://www.linkedin.com/in/mohamedsobea/) [`Gmail`](mailto:mohameed.sobea@gmail.com)

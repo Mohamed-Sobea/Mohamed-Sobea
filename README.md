@@ -11,16 +11,4 @@ Interested in **Backend**, **DevOps**, and core CS like **Databases**, **Compile
 
 ---
 
-### Skills
-
-**Languages:** C++, Java, Python, TypeScript
-
-**Backend:** Node.js, Express.js
-
-**Databases:** MongoDB, MySQL
-
-**Tools:** Git, VS Code
-
----
-
 **Connect via**   [`LinkedIn`](https://www.linkedin.com/in/mohamedsobea/) [`Gmail`](mailto:mohameed.sobea@gmail.com)
